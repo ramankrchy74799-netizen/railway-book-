@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ancient_history",
+    "name": "Ancient History",
+    "file": "assets/pdfs/subjects/ancient_history.pdf"
+  },
+  {
+    "id": "medieval_history",
+    "name": "Medieval History",
+    "file": "assets/pdfs/subjects/medieval_history.pdf"
+  },
+  {
+    "id": "modern_history",
+    "name": "Modern History",
+    "file": "assets/pdfs/subjects/modern_history.pdf"
+  },
+  {
+    "id": "polity",
+    "name": "Polity",
+    "file": "assets/pdfs/subjects/polity.pdf"
+  },
+  {
+    "id": "economics",
+    "name": "Economics",
+    "file": "assets/pdfs/subjects/economics.pdf"
+  },
+  {
+    "id": "geography",
+    "name": "Geography",
+    "file": "assets/pdfs/subjects/geography.pdf"
+  },
+  {
+    "id": "world_geography",
+    "name": "World Geography",
+    "file": "assets/pdfs/subjects/world_geography.pdf"
+  },
+  {
+    "id": "environment",
+    "name": "Environment",
+    "file": "assets/pdfs/subjects/environment.pdf"
+  },
+  {
+    "id": "science_technology",
+    "name": "Science & Tech",
+    "file": "assets/pdfs/subjects/science_technology.pdf"
+  },
+  {
+    "id": "computer",
+    "name": "Computer",
+    "file": "assets/pdfs/subjects/computer.pdf"
+  },
+  {
+    "id": "arts_culture",
+    "name": "Arts & Culture",
+    "file": "assets/pdfs/subjects/arts_culture.pdf"
+  },
+  {
+    "id": "govt_schemes",
+    "name": "Govt Schemes",
+    "file": "assets/pdfs/subjects/govt_schemes.pdf"
+  },
+  {
+    "id": "sports",
+    "name": "Sports",
+    "file": "assets/pdfs/subjects/sports.pdf"
+  },
+  {
+    "id": "awards_honors",
+    "name": "Awards & Honors",
+    "file": "assets/pdfs/subjects/awards_honors.pdf"
+  },
+  {
+    "id": "books_authors",
+    "name": "Books & Authors",
+    "file": "assets/pdfs/subjects/books_authors.pdf"
+  },
+  {
+    "id": "static_gk",
+    "name": "Static GK",
+    "file": "assets/pdfs/subjects/static_gk.pdf"
+  }
+]
